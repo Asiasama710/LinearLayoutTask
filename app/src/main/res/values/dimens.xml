@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="body_text_size">12sp</dimen>
+    <dimen name="title_text_size">16sp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_8">12dp</dimen>
+    <dimen name="cornar_8dp">8dp</dimen>
+    <dimen name="space_4">4dp</dimen>
+</resources>
