@@ -4,7 +4,7 @@
     <dimen name="title_text_size">16sp</dimen>
     <dimen name="space_16">16dp</dimen>
     <dimen name="space_12">12dp</dimen>
-    <dimen name="space_8">12dp</dimen>
+    <dimen name="space_8">8dp</dimen>
     <dimen name="cornar_8dp">8dp</dimen>
     <dimen name="space_4">4dp</dimen>
 </resources>
